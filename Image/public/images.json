@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://hips.hearstapps.com/hmg-prod/images/ama-dablam-mountain-peak-view-from-chola-pass-royalty-free-image-1623254695.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://hips.hearstapps.com/hmg-prod/images/alpe-di-siusi-sunrise-with-sassolungo-or-langkofel-royalty-free-image-1623254127.jpg"
+    }
+  ]
+}
